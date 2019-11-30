@@ -8,5 +8,7 @@ int main(){
   int a=0;
   cout<<str<<endl;
   cout<<"BUG"<<endl;
+  cout<<"dev------"<<endl;
+  cout<<"finished dev function"<<endl;
   return 0;
 }
